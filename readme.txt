@@ -1,1 +1,2 @@
 "Hello!"
+"Today is a great day!"
